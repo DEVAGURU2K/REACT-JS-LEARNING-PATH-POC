@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "vue js",
+      "body": "In this article, I will teach you how to parse or read CSV files in ReactJS in the simplest way possible. "
+    },
+    {
+      "title": "react",
+      "body": "react js is one of the javascript library",
+      "id": 2
+    },
+    {
+      "title": "angularjs",
+      "body": "angular js is one of the framework in js",
+      "id": 3
+    },
+    {
+      "title": "sdfsafsafdf",
+      "body": "asfdsafdsaf",
+      "id": 4
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "email": "pcb@yopmail.com",
+      "password": "test@123"
+    },
+    {
+      "email": "pcb@yopmail.com",
+      "password": "test@123",
+      "id": 2
+    },
+    {
+      "email": "pcb@yopmail.com",
+      "password": "test@123",
+      "id": 3
+    },
+    {
+      "email": "pcb@yopmail.com",
+      "password": "test@123",
+      "id": 4
+    },
+    {
+      "email": "pcb@yopmail.com",
+      "password": "test@123",
+      "id": 5
+    },
+    {
+      "email": "pcb@yopmail.com",
+      "password": "test@123",
+      "id": 6
+    },
+    {
+      "email": "pcb@yopmail.com",
+      "password": "test@123",
+      "id": 7
+    },
+    {
+      "email": "pcb@yopmail.com",
+      "password": "test@123",
+      "id": 8
+    },
+    {
+      "email": "pcb@yopmail.com",
+      "password": "test@123",
+      "id": 9
+    }
+  ]
+}

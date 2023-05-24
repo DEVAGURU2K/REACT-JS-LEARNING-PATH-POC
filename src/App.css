@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.login-form button:hover{color: #ffffff !important}.login-form button:focus{color: #ffffff !important}.login-form a:hover{color: #ffffff;text-decoration:underline !important}
+.login-form input{background:transparent !important;color:#ffffff;font-size: 17px !important;border-left:0px;border-right:0px;border-top:0px;border-bottom:2px solid #fff !important;border-radius:0px;box-shadow: none;}
+.login-form input:focus{box-shadow:none;border-bottom:2px solid #fff !important;outline:none;color: #ffffff !important}
+.log-animation img{height: 423px;}.login-logo img{width: 350px;margin-left: 15%;}
+.span_eyeicon{
+      position: absolute;
+      right: 12px;
+      top: 0;
+      bottom: 0;
+      margin: auto;
+      z-index: 10;
+      height: 16px;
+   }
